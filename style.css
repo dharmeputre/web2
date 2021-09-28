@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#content {
+  margin-top:100px;
+}
+.copyright {
+  margin-top: 50px;
+  height: 300px;
+  background-color: #0d6efd;
+  color: pink;
+}
+
+#photos .container-lg {
+  margin-top: 100px
+}
+
+#allphotos1 .container-lg {
+  margin-top: 75px
+}
+
+#allphotos1 .container-lg p {
+  margin-top: 50px
+}
